@@ -50,7 +50,6 @@ esp32-pi-mqtt/
 │   │   ├── CMakeLists.txt               # Build config for this component
 │   │   ├── idf_component.yml            # Component manifest
 │
-│
 ├── pi_mqtt_server.py                   # MQTT server script (Raspberry Pi)
 ├── README.md                           # Project documentation
 ```
